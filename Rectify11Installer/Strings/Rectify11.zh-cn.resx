@@ -136,7 +136,7 @@
     <value>在安装 Rectify11 之前，您必须同意此许可协议：</value>
   </data>
   <data name="installNote" xml:space="preserve">
-    <value>改正您当前的系统</value>
+    <value>优化您当前的系统外观</value>
   </data>
   <data name="installTitle" xml:space="preserve">
     <value>立即安装</value>
@@ -160,10 +160,10 @@
     <value>欢迎</value>
   </data>
   <data name="welcomeDescription" xml:space="preserve">
-    <value>安装程序将完成在此电脑上安装 Rectify11 所需的各个步骤，以获得更一致的体验。建议在继续之前关闭所有后台应用程序。选择所需的选项以继续。</value>
+    <value>安装程序将引导您完成在电脑上安装 Rectify11 所需的各个步骤，以获得更一致的体验。建议在继续之前关闭所有后台应用程序。请选择您需要的选项继续。</value>
   </data>
   <data name="installChoiceDescription" xml:space="preserve">
-    <value>您可以选择改正要的内容</value>
+    <value>您可以选择要优化的内容</value>
   </data>
   <data name="installChoiceTitle" xml:space="preserve">
     <value>选择要安装的内容</value>
@@ -190,7 +190,7 @@
     <value>使用增强型功能区</value>
   </data>
   <data name="epExtMica" xml:space="preserve">
-    <value>将云母 (Mica) 扩展到浏览器导航栏</value>
+    <value>将云母 (Mica) 扩展到文件资源管理器导航栏</value>
   </data>
   <data name="epHeader" xml:space="preserve">
     <value>自定义桌面</value>
@@ -199,7 +199,7 @@
     <value>选择所需的桌面体验</value>
   </data>
   <data name="epW10Radio" xml:space="preserve">
-    <value>Windows 10 圆形</value>
+    <value>Windows 10 圆角</value>
   </data>
   <data name="epW10Taskbar" xml:space="preserve">
     <value>Windows 10 任务栏</value>
@@ -208,7 +208,7 @@
     <value>Windows 11 默认</value>
   </data>
   <data name="summaryFooter" xml:space="preserve">
-    <value>请保存所有内容并关闭您的工作，安装结束后需要重启。</value>
+    <value>请保存所有工作并关闭程序，安装完成后需要重启计算机。</value>
   </data>
   <data name="summaryItems" xml:space="preserve">
     <value>在此系统上安装 Rectify11。</value>
@@ -244,17 +244,17 @@
     <value>总结</value>
   </data>
   <data name="exitText" xml:space="preserve">
-    <value>你确定要取消安装吗？</value>
+    <value>您确定要取消安装吗？</value>
   </data>
   <!--translate-->
   <data name="progressText" xml:space="preserve">
-    <value>你知道吗？</value>
+    <value>您知道吗？</value>
   </data>
   <data name="buttonReboot" xml:space="preserve">
-    <value>现在重启</value>
+    <value>立即重启</value>
   </data>
   <data name="installASDF" xml:space="preserve">
-    <value>使用强调色主题</value>
+    <value>使用主题色主题</value>
   </data>
   <data name="installIcons" xml:space="preserve">
     <value>安装图标包</value>
@@ -263,7 +263,7 @@
     <value>安装用户头像</value>
   </data>
   <data name="CMenuPageHeader" xml:space="preserve">
-    <value>自定义右键菜单</value>
+    <value>自定义上下文菜单(右键菜单)</value>
   </data>
   <data name="installGadgets" xml:space="preserve">
     <value>安装 Windows 桌面小工具</value>
@@ -272,7 +272,7 @@
     <value>安装 Fluent 样式用户头像</value>
   </data>
   <data name="uninstallChoiceDescription" xml:space="preserve">
-    <value>你可以选择还原什么。</value>
+    <value>您可以选择还原的内容</value>
   </data>
   <data name="installMFE" xml:space="preserve">
     <value>跳过安装 MicaForEveryone</value>
@@ -307,24 +307,23 @@
   <data name="installShell" xml:space="preserve">
     <value>增强的右键菜单</value>
   </data>
-  <!--Please translate-->
   <data name="optionBasic" xml:space="preserve">
-    <value>基本</value>
+    <value>基本选项</value>
   </data>
   <data name="optionAdvanced" xml:space="preserve">
-    <value>高级</value>
+    <value>高级选项</value>
   </data>
   <data name="restartNow" xml:space="preserve">
-    <value>现在重启</value>
+    <value>现在立即重启</value>
   </data>
   <data name="restartLater" xml:space="preserve">
     <value>稍后重启</value>
   </data>
   <data name="previewTheme" xml:space="preserve">
-    <value>预览</value>
+    <value>预览主题</value>
   </data>
   <data name="themePartialDark" xml:space="preserve">
-    <value>深色 (部分)</value>
+    <value>深色 (部分应用)</value>
   </data>
   <data name="compatErrorText" xml:space="preserve">
     <value>需要 Windows 10 版本 1903 或更高版本才能安装 Rectify11。</value>
@@ -345,13 +344,13 @@
     <value>收起信息</value>
   </data>
   <data name="uninstallConfirmText" xml:space="preserve">
-    <value>您确定卸载 Rectify11 吗</value>
+    <value>您确定要卸载 Rectify11 吗?</value>
   </data>
   <data name="rtInstallFailPart1" xml:space="preserve">
     <value>安装 </value>
   </data>
   <data name="rtInstallFailPart2" xml:space="preserve">
-    <value>失败了。您需要手动安装它</value>
+    <value> 时失败了。您需要手动安装它</value>
   </data>
   <data name="rtInstallFailInstruc" xml:space="preserve">
     <value>运行库安装失败</value>
@@ -387,7 +386,7 @@
     <value>正在卸载附加组件</value>
   </data>
   <data name="doneYouCanClose" xml:space="preserve">
-    <value>完成了。你可以关闭这个窗口了</value>
+    <value>完成了。您现在可以关闭这个窗口了</value>
   </data>
   <data name="changedEverythingTitle" xml:space="preserve">
     <value>Rectify11 改变了一切</value>
@@ -396,7 +395,7 @@
     <value>我们对整个系统的图标进行了现代化处理，使用户体验更加一致和Fluent。</value>
   </data>
   <data name="betterDpiTitle" xml:space="preserve">
-    <value>你知道吗？</value>
+    <value>您知道吗？</value>
   </data>
   <data name="betterDpiText" xml:space="preserve">
     <value>Rectify11 具有更好的 Win32 DPI 支持，因为我们可以正确缩放控件。</value>
@@ -405,7 +404,7 @@
     <value>Rectify11 有更一致的主题</value>
   </data>
   <data name="betterThemeText" xml:space="preserve">
-    <value>我们已尽最大努力在我们的主题中复制 WinUI 控件，而深色主题真是太棒了。</value>
+    <value>我们已竭尽全力在我们的主题中重现 WinUI 控件，深色主题的表现尤为出色。</value>
   </data>
   <data name="betterPerfTitle" xml:space="preserve">
     <value>Rectify11 具有更好的性能</value>
@@ -417,22 +416,22 @@
     <value>Fluent 控制面板</value>
   </data>
   <data name="betterCplText" xml:space="preserve">
-    <value>我们改进了控制面板中的许多细节，例如现代化旧视觉效果和添加已删除的项目</value>
+    <value>我们改进了控制面板中的许多细节，比如现代化旧的视觉效果和恢复之前被移除的项目。</value>
   </data>
   <data name="supportTitle" xml:space="preserve">
     <value>需要帮助或技术支持？</value>
   </data>
   <data name="supportText" xml:space="preserve">
-    <value>您可以在我们的官方 Discord 服务器上询问我们任何问题。 该链接位于 GitHub 页面上，您可以在其中下载安装程序</value>
+    <value>您可以在我们的官方 Discord 服务器上询问我们任何问题。 该链接位于您下载 Rectify11 安装程序的 GitHub 页面上</value>
   </data>
   <data name="thankYouTitle" xml:space="preserve">
-    <value>谢谢你！</value>
+    <value>谢谢您！</value>
   </data>
   <data name="thankYouText" xml:space="preserve">
     <value>感谢您的支持，感谢您安装 Rectify11。</value>
   </data>
   <data name="restartingYourPC" xml:space="preserve">
-    <value>正在重启你的电脑</value>
+    <value>正在重启您的电脑</value>
   </data>
   <data name="uninstallFinishedPrompt" xml:space="preserve">
     <value>Rectify11 已完成卸载，请重新启动您的电脑以完成更改。</value>
@@ -441,18 +440,17 @@
     <value>Rectify11 已完成安装，请重新启动您的电脑以完成更改。</value>
   </data>
   <data name="r11InstallErrorPart1" xml:space="preserve">
-    <value>Rectify11 安装失败，请发送 </value>
+    <value>Rectify11 安装失败。请尝试禁用您的杀毒软件。如果此方法不起作用，那么请发送 </value>
   </data>
   <data name="r11InstallErrorPart2" xml:space="preserve">
-    
-  <value> 并在 GitHub 上打开问题或将其发送到 Rectify11 Discord 服务器上寻求帮助。</value></data>
+    <value> 并在 GitHub 上打开 Issues(即议题) 或将其发送到Rectify11 Discord服务器上寻求帮助。</value></data>
   <data name="r11UninstallThanks" xml:space="preserve">
-    <value>感谢你使用 Rectify11</value>
+    <value>感谢您使用 Rectify11</value>
   </data>
   <data name="r11UninstallSubTitle" xml:space="preserve">
     <value>卸载将在几分钟内完成。</value>
   </data>
   <data name="tooNewBuild" xml:space="preserve">
-	<value>您正在运行的 Windows 版本太新 Rectify11 无法完全支持。</value>
+	<value>您正在运行的 Windows 版本太新, Rectify11 无法完全支持。</value>
   </data>
 </root>
