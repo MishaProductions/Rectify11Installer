@@ -130,7 +130,7 @@
     <value>许可协议</value>
   </data>
   <data name="eulaR11" xml:space="preserve">
-    <value>{\rtf1\ansi\pard{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}\fi-360\li360\f0\fs20{\pntext\f0 1.\tab}This software is provided 'as-is', without any express or implied warranty. In NO event will the author be held liable for any damages arising from the use of this software.\par{\pntext\f0 2.\tab}Rectify11 is free to use by anyone, but you cannot sell it. You cannot bundle this product as a part of another product without written permission from the author.\par{\pntext\f0 3.\tab}You cannot claim that you made the software.\par{\pntext\f0 4.\tab}This notice may not be removed or altered from any distribution.\par\pard\par{\pntext\f0\space}Copyright \'a9 Microsoft Corporation and the Rectify11 Team.\par{\pntext\f0\space}We are NOT affiliated with Microsoft Corporation in ANY way. This is a community made project.\par}</value>
+    <value>{\rtf1\ansi\pard{\*\pn\pnlvlbody\pnf0\pnindent0\pnstart1\pndec{\pntxta.}}\fi-360\li360\f0\fs20{\pntext\f0 1.\tab}本软件按“原样”提供，不提供任何明示或暗示的保证。在任何情况下，作者均不对因使用本软件而产生的任何损害承担责任。\par{\pntext\f0 2.\tab}Rectify11 可由任何人免费使用，但你不能出售它。未经作者书面许可，你不能将此产品作为另一个产品的一部分进行捆绑。\par{\pntext\f0 3.\tab}你不能声称你制作了该软件。\par{\pntext\f0 4.\tab}此通知不得从任何分发中移除或更改。\par\pard\par{\pntext\f0\space}版权所有 © Microsoft Corporation 和 Rectify11 团队。\par{\pntext\f0\space}我们与 Microsoft Corporation 没有任何关联。这是一个社区制作的项目。\par}</value>
   </data>
   <data name="eulaTitle" xml:space="preserve">
     <value>在安装 Rectify11 之前，您必须同意此许可协议：</value>
